@@ -1,4 +1,4 @@
-# CodeAlpha_EventRegistrationSystem
+# EventRegistrationSystem
 ## CodeAlpha Backend Development – Task 2
 
 This project was built as part of my **CodeAlpha Backend Development Internship (Task 2)**.  
