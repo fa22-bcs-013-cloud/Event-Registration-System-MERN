@@ -1,5 +1,5 @@
 # EventRegistrationSystem
-## CodeAlpha Backend Development – Task 2
+##  Task 2
 
 This project was built as part of my **CodeAlpha Backend Development Internship (Task 2)**.  
 It demonstrates core backend concepts like **JWT authentication, MongoDB schema design, CRUD operations, and relations between users and events**, along with a **basic React frontend** to visualize the flow between client and server.  
